@@ -1,0 +1,15 @@
+name: focusflow
+description: FocusFlow - 深色科技风专注计时应用
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.3
+
+flutter:
+  uses-material-design: true
